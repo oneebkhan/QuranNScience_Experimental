@@ -1,4 +1,4 @@
-<!-- DO NOT REMOVE - contributor_list:data:start:["MuhammadSaadSiddique", "Jaweria-B", "oneebkhan", "YousraMashkoor"]:end -->
+<!-- DO NOT REMOVE - contributor_list:data:start:["MuhammadSaadSiddique", "oneebkhan", "Jaweria-B", "YousraMashkoor"]:end -->
 ## Setup your Backend Environment
 
 navigate to backend folder and run the following commands
@@ -65,9 +65,9 @@ npm install
 
 - **[@MuhammadSaadSiddique](https://github.com/MuhammadSaadSiddique)**
 
-- **[@Jaweria-B](https://github.com/Jaweria-B)**
-
 - **[@oneebkhan](https://github.com/oneebkhan)**
+
+- **[@Jaweria-B](https://github.com/Jaweria-B)**
 
 - **[@YousraMashkoor](https://github.com/YousraMashkoor)**
 
